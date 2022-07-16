@@ -13,5 +13,13 @@ namespace Controllers
         {
 
         }
+        protected void btnSnackbar_Click(object sender, EventArgs e)
+        {
+            Snackbar.Text = "Titulo muito foda sei lá o que";
+            Snackbar.Time = 10000;
+            Snackbar.Bold = true;
+
+            Snackbar.Show(10000);
+        }
     }
 }
