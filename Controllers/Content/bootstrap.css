@@ -2631,9 +2631,6 @@ fieldset[disabled] input[type="radio"],
 fieldset[disabled] input[type="checkbox"] {
   cursor: not-allowed;
 }
-input[type="file"] {
-  display: block;
-}
 input[type="range"] {
   display: block;
   width: 100%;

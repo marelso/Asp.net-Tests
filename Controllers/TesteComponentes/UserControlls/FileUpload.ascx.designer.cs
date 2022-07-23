@@ -7,16 +7,29 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace UserControlls {    
-    public partial class Snackbar {
-        
+namespace ControllersTeste.UserControlls
+{
+
+
+    public partial class FileUpload
+    {
+
         /// <summary>
-        /// lblText control.
+        /// flFileUpload control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblText;
+        protected global::System.Web.UI.WebControls.FileUpload flFileUpload;
+
+        /// <summary>
+        /// btnClearFiles control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnClearFiles;
     }
 }

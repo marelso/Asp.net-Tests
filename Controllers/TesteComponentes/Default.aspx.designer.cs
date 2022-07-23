@@ -21,7 +21,7 @@ namespace Controllers
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::UserControlls.Snackbar Snackbar;
+        protected global::ControllersTeste.UserControlls.Snackbar Snackbar;
 
         /// <summary>
         /// btnSnackbar control.
@@ -33,12 +33,12 @@ namespace Controllers
         protected global::System.Web.UI.WebControls.Button btnSnackbar;
 
         /// <summary>
-        /// flFiles control.
+        /// Snackbar1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::UserControlls.FileControl flFiles;
+        protected global::ControllersTeste.UserControlls.FileUpload Snackbar1;
     }
 }

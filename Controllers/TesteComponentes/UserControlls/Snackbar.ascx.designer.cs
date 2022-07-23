@@ -7,9 +7,13 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace UserControlls {    
-    public partial class Snackbar {
-        
+namespace ControllersTeste.UserControlls
+{
+
+
+    public partial class Snackbar
+    {
+
         /// <summary>
         /// lblText control.
         /// </summary>
